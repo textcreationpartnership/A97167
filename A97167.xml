@@ -1,0 +1,678 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>English Iliads, or a sea-fight reviewed in a poem occasioned by the death of a person of honour slain in the late vvar between the English and the Dutch. By J.W. Together with An Irenicum, or reflections on the trumpeter and conditions of peace.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97167</idno>
+            <idno type="STC">Wing W874</idno>
+            <idno type="STC">ESTC R229728</idno>
+            <idno type="EEBO-CITATION">99895368</idno>
+            <idno type="PROQUEST">99895368</idno>
+            <idno type="VID">152769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2319:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>English Iliads, or a sea-fight reviewed in a poem occasioned by the death of a person of honour slain in the late vvar between the English and the Dutch. By J.W. Together with An Irenicum, or reflections on the trumpeter and conditions of peace.</title>
+                  <author>J. W.</author>
+                  <author>Warly, John, d. 1679.</author>
+               </titleStmt>
+               <extent>[4], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Jonathan Edwin at the three Roses in Ludgate Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Warley by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152769:1"/>
+            <p>Engliſh Iliads, OR A SEA-FIGHT REVIEWED IN A POEM Occaſioned by the death of a perſon of Honour ſlain in the late War between the Engliſh and the Dutch.</p>
+            <p>By <hi>J. W.</hi>
+            </p>
+            <p>Together with an <hi>Irenicum,</hi> or Reflections on the Trumpeter and Conditions of Peace.</p>
+            <q>
+               <l>— <hi>moriemur in ultis</hi>
+               </l>
+               <l>
+                  <hi>At moriemur ait</hi> —</l>
+               <bibl>Virg. Aeneid.</bibl>
+               <l>The noble Voluntiers free as mans Will</l>
+               <l>Aequally ready to be kill'd or kill.</l>
+            </q>
+            <q>
+               <l>—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <bibl>
+                  <hi>Hom. Iliad.</hi> 4.</bibl>
+               <l>But ſlaviſh Seamen forced by a Preſs</l>
+               <l>Stood on the Decks, like <hi>Vooden men at Cheſs.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Jonathan Edwin</hi> at the three Roſes in <hi>Ludgate Street,</hi> 1674.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:152769:2"/>
+            <pb facs="tcp:152769:2"/>
+            <head>An Advice to a Friend to print his Poem, part being written ſome years paſt.</head>
+            <l>WHen ſence in Poeſie heightened cometh forth,</l>
+            <l>It doth not borrow from the times its worth,</l>
+            <l>As ſome ſpruce Wits, whom <hi>Fortune</hi> doth renown</l>
+            <l>For ſome caught upſtart humour of the Town,</l>
+            <l>Which when digeſted in a waggiſh Verſe,</l>
+            <l>Extorts a laugh from Clubbing Stationers,</l>
+            <l>Or ſome pert Novice who will them commend,</l>
+            <l>If luckily a pair of lines do end,</l>
+            <l>Or ſome fond Poet, who writes Playes in rithm,</l>
+            <l>With a new meaſure vaumping up old time,</l>
+            <l>Which made Theatrical, the vulgar ſtares,</l>
+            <l>At's jingling verſe, <hi>tagg'd</hi> as the <hi>points</hi> he wears,</l>
+            <l>'Tis trifling Art which ſyllables cant vary,</l>
+            <l>What you write's like <hi>Caeſars</hi> Commentary,</l>
+            <l>And what's eternal do not call too late,</l>
+            <l>That neither hath <hi>a Poſte</hi> or <hi>Antedate.</hi>
+            </l>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:152769:3"/>
+            <pb n="1" facs="tcp:152769:3"/>
+            <head>ENGLISH ILLIADS, OR A SEA-FIGHT REVIEWED IN A POEM Occaſioned by the death of a perſon of Honour ſlain in the late War between the Engliſh and the Dutch.</head>
+            <div type="part">
+               <head>On the Death of the Lord of <hi>MAIDSTONE.</hi>
+               </head>
+               <l>WEr't proper now to cry or make ſad noiſe,</l>
+               <l>I'de borrow breath, or ſteal a <hi>Stentors</hi> voice</l>
+               <l>Rending the Earth for's Vault, and with my moan</l>
+               <l>The Earth ſhould eccho whilſt the Sea did groan.</l>
+               <pb n="2" facs="tcp:152769:4"/>
+               <l>His Mourners throat muſt all be Canon <hi>bore,</hi>
+               </l>
+               <l>Who' wails his fate, loud as the Seas muſt roar.</l>
+               <l>I call my Muſe, which through a tender throat,</l>
+               <l>At vulagar death ſends forth a whining note;</l>
+               <l>Here muſt be ſighs like winds, which rageing blow</l>
+               <l>With lofty wings diſordering all below.</l>
+               <l>Some with their ſudden ſhrieks awaken'd death,</l>
+               <l>Whilſt men expiring catch their mourners breath,</l>
+               <l>By which but half alive, they ghaſtly ſtare,</l>
+               <l>'Till Fates retake their <hi>reſcu'd</hi> Priſoner,</l>
+               <l>Way with ſuch accents, they are childiſh tones.</l>
+               <l>Honours diſturb'd by 'frighting Female moans.</l>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>NOBLES</hi> and <hi>TARPOLLINS</hi> compar'd.</head>
+               <l>THough the bold Sailor's arm'd 'gainſt wind and weather,</l>
+               <l>Whoſe Nerves like cordage knit his limbs together,</l>
+               <pb n="3" facs="tcp:152769:4"/>
+               <l>Whoſe joynts like Pulleys, and his Callous hand,</l>
+               <l>Like the Ships helm, can its vaſte bulk command;</l>
+               <l>And leggs and arms, as <hi>yeards</hi> and <hi>maſts,</hi> whilſt he</l>
+               <l>Vaunts with his ſtrength, the Ships <hi>Epitome:</hi>
+               </l>
+               <l>Rigg'd by his King he fears not to prevail,</l>
+               <l>Tallow'd in's <hi>mels,</hi> and when cloath'd under <hi>ſail,</hi>
+               </l>
+               <l>Such a <hi>Sea-man of War</hi> by's own broadſide,</l>
+               <l>Not by the Ships, thinks himſelf fortified,</l>
+               <l>Though this Pitcht Monſter ſtrutting on the decks</l>
+               <l>In heat of fight melts like a Babe of wax:</l>
+               <l>Yet Nobles tender frame Seamen deride,</l>
+               <l>Not <hi>built</hi> by Nature t'outface wind and tide,</l>
+               <l>But the Tarpollin thinks his own skin buff,</l>
+               <l>
+                  <hi>Tann'd</hi> by the weather to be <hi>Musket proof,</hi>
+               </l>
+               <l>And in his ſinews only made for toyl</l>
+               <l>Thinks himſelf wrapt as in a <hi>cable coyl</hi>
+               </l>
+               <l>Yet he's not ſafe, though he ſcape <hi>iron balls</hi>
+               </l>
+               <l>As ill built fabricks by's own weight he falls,</l>
+               <l>As <hi>Niobe</hi> ſuppoſe him made of ſtone,</l>
+               <l>With marble ſides hard as the rock, his bone</l>
+               <l>Ribb'd like his veſſel, whom if you look on</l>
+               <l>Youl ſwear his ſoul's in <hi>Naturs</hi> garriſon</l>
+               <l>Yet not ſecure, a little force hath broke</l>
+               <l>The ſturdy flint when art did give the ſtrok</l>
+               <pb n="4" facs="tcp:152769:5"/>
+               <l>A twiſted ſilk much ſtronger is than thread,</l>
+               <l>Thoſe who are fineſt made, not ſooneſt dead.</l>
+               <l>How much of Canvas, and rude fleſh was torn?</l>
+               <l>How many limbs broke in that <hi>bloody morn?</hi>
+               </l>
+               <l>Yet <hi>Maidſtone</hi>'s ſafe, the cruel Fates all day,</l>
+               <l>'Fore they could hit, their threatning balls did lay.</l>
+               <l>Some look on <hi>Voluntiers</hi> as on the Moon,</l>
+               <l>Which the Clown thinks made to be gazd upon</l>
+               <l>Theſe are but vulgar errors, for each ray</l>
+               <l>Commands a wave, her all the Seas obey.</l>
+               <l>Such true Heroes, who adorn their breaſt,</l>
+               <l>With a brave courage, not for fight were dreſt,</l>
+               <l>Yet the Ships Glory, they as <hi>Colours</hi> are</l>
+               <l>To ſhew whoſe Ship it is, and cauſe of War,</l>
+               <l>Which <hi>Flags</hi> of ſilk are oft with honour born,</l>
+               <l>On the <hi>Main Top</hi> when lower ſails are torn.</l>
+            </div>
+            <div type="part">
+               <head>Late Wars compar'd with thoſe in former Ages.</head>
+               <l>Speak not of men who dare in forreſts ſtalk,</l>
+               <pb n="5" facs="tcp:152769:5"/>
+               <l>'Mongſt Dens and Caves, but who on Decks can walk.</l>
+               <l>The Naval Squadrons when deſign'd for War,</l>
+               <l>Seem like a Wood where fierceſt Creatures are,</l>
+               <l>Whoſe <hi>Images,</hi> plac'd on the <hi>Sterns,</hi> do more</l>
+               <l>Affright than living ſavage Beaſts at ſhore,</l>
+               <l>Vnder thoſe ſhadows the loud Cannons roar,</l>
+               <l>Theſe ſenceleſs Figures onely made for ſtate,</l>
+               <l>Seem living when the Guns them animate;</l>
+               <l>From Maſt to Maſt Sea-men like Squirrels skip,</l>
+               <l>Whilſt great Guns roar, as Lions, in the ſhip;</l>
+               <l>A Fleets a moving Deſart on the Seas,</l>
+               <l>An artificial <hi>floating Wilderneſs.</hi>
+               </l>
+               <l>When Souldiers were firſt train'd they onely knew</l>
+               <l>To bend a <hi>Wooden Arch,</hi> a piece of <hi>Eugh,</hi>
+               </l>
+               <l>Or ſturdy ſteal, which ſcorns its bridle ſtring,</l>
+               <l>And humane arms, whilſt it the ſhot doth ſling,</l>
+               <l>They ſent their darts like <hi>winged death</hi> through</l>
+               <l>the aire,</l>
+               <l>Whoſe threatning plumes ſtroke Armies in de<g ref="char:EOLhyphen"/>ſpair,</l>
+               <l>But never bullet ſhot, which as it flyes,</l>
+               <l>Do's <hi>whiſtle</hi> death, and ſing mens <hi>Obſequies.</hi>
+               </l>
+               <pb n="6" facs="tcp:152769:6"/>
+               <l>When ſteal's edg'd force, and <hi>hollow braſs</hi> un<g ref="char:EOLhyphen"/>known,</l>
+               <l>Prodigious ſtones were by great <hi>Ajax</hi> thrown,</l>
+               <l>Which by ſucceſs 'mongſt Greeks were ſam'd and made</l>
+               <l>The ſubject of Old <hi>Homers</hi> Iliade,</l>
+               <l>The Roman who by ſieges ſpread his name,</l>
+               <l>His cheifeſt Engine was the battering Ram</l>
+               <l>When Cities were as <hi>folds,</hi> the <hi>Hurdle wall</hi>
+               </l>
+               <l>By ſuch mechanical deviſe did fall:</l>
+               <l>When brutiſh men firſt yok'd in towns were <hi>ſtal'd</hi>
+               </l>
+               <l>And <hi>Kings</hi> and <hi>Shepheards</hi> by the ſame name call'd</l>
+               <l>The firſt and beſt of Engineers did uſe</l>
+               <l>Glaſs to burn Ships which were at <hi>Syracuſe,</hi>
+               </l>
+               <l>Such weapons if with ours compar'd are toyes,</l>
+               <l>Ours look like Soldiers arms, theirs fit for boyes;</l>
+               <l>Though Glaſſes (thoſe bold thieves) out face the Sun,</l>
+               <l>And ſteal noons fire, they are by Guns out down,</l>
+               <l>Canons their Engines do as much ſurpaſs</l>
+               <l>As a Fire ſhip doth a ſmal burning Glaſs</l>
+               <l>Let Carthaginians talk of <hi>Alps</hi> and ſnow,</l>
+               <l>The Liquid Mountains, which on leas do flow,</l>
+               <l>Are much more terrible, <hi>rock</hi> mountains there,</l>
+               <pb n="7" facs="tcp:152769:6"/>
+               <l>Yield not to ſhips though fraught with vinegar</l>
+               <l>By punick Art 'haps ſuch ſowre liquor, can</l>
+               <l>Conſume <hi>Land rocks;</hi> not <hi>thoſe</hi> in th' Ocean,</l>
+               <l>
+                  <hi>All</hi> theſe can't fright, not rocks or rageing wind</l>
+               <l>Can 'ere make wreck of a true noble mind.</l>
+            </div>
+            <div type="part">
+               <head>Canons more terrible than Thunder.</head>
+               <l>WHo Guns and Thunder will compare may ſee</l>
+               <l>How Heaven's out done by Earths artillery</l>
+               <l>To be aveng'd of ſome an angry <hi>Jove</hi>
+               </l>
+               <l>Calls for a Cloud, and when it is above,</l>
+               <l>Contracting it's own nitrous parts, doth crowd</l>
+               <l>Them in the boſom of a diſmal Cloud,</l>
+               <l>
+                  <hi>Thus charg'd,</hi> it ſails about the ſpacious Aire</l>
+               <l>Striking ſome guilty Cowards in deſpair,</l>
+               <l>And makes an Emperour put's lawrel on</l>
+               <l>Fearing the Worlds, and's own deſtruction:</l>
+               <l>And when great <hi>Jove</hi> prepared ſtands ſhoot,</l>
+               <pb n="8" facs="tcp:152769:7"/>
+               <l>Through the Clouds bowels the enrag'd fire burſts out,</l>
+               <l>The fluid ſides its force doth rend in ſunder,</l>
+               <l>And then's the crack w<hi rend="sup">ch</hi> Mortals do call thunder,</l>
+               <l>To make a noiſe like that once Art did try,</l>
+               <l>That <hi>Earth might be the Eccho of the Sky,</hi>
+               </l>
+               <l>One envying the pompous State above</l>
+               <l>Did give a challenge to the thundring <hi>Jove,</hi>
+               </l>
+               <l>A Chariotier with's <hi>Bridge</hi> thought he could vye</l>
+               <l>Noiſe with Heavens arch though his was not ſo high.</l>
+               <l>But none Guns thunder counterfeited, that</l>
+               <l>Tranſcends all skill and power to imitate,</l>
+               <l>If Art and Nature joyn'd for a loud noiſe,</l>
+               <l>The Cannons roaring mouth would be their choice,</l>
+               <l>Things ſo unlike who ever dar'd compare,</l>
+               <l>Guns brazen ſides, and thunders cloudy aire?</l>
+               <l>The hollow Irons more dreadful and more loud</l>
+               <l>Than th hollow heavens are with the thundring clouds,</l>
+               <l>For a bolt ſent from thence, may with its ſtroke,</l>
+               <l>Touch an unmoved hill or ſhake an Oak,</l>
+               <l>Split by unknown force, but when the Gun.</l>
+               <pb n="9" facs="tcp:152769:7"/>
+               <l>Sends ſhot, that can rend ſhips, more oakes then one.</l>
+               <l>Thunder affrights with noyſe but hurts us not,</l>
+               <l>Like a gun charg'd with powder not with ſhot,</l>
+               <l>Lightnings like fireſhips with falſe <hi>wooden guns</hi>
+               </l>
+               <l>Only can ſcorch the ſides by which it runs,</l>
+               <l>But when the priſon'd ſhot breaks looſe the gun</l>
+               <l>It ſelf doth <hi>ſtart</hi> and <hi>carriage</hi> backward run</l>
+               <l>No ſooner is the fire put to the <hi>trayne</hi>
+               </l>
+               <l>But by one blow almoſt an army's ſlain;</l>
+               <l>The thundring clouds can't at all times appear</l>
+               <l>
+                  <hi>Heavens guns</hi> are <hi>charging</hi> at leaſt, half the year,</l>
+               <l>From Spring to Autum then the angry sky</l>
+               <l>Doth ſcorch the Earth which Summers heat made dry,)</l>
+               <l>But Canons force, quickas the ſudden eye,</l>
+               <l>One ſpark makes ſhot, ſwift as the lightnings fly</l>
+               <l>Such fatal thunder he did fear no more</l>
+               <l>Than noiſe proclaiming triumphs on the ſhore.</l>
+               <l>More brave than <hi>Caeſar</hi> he ſcorns <hi>Laureal wreaths</hi>
+               </l>
+               <l>Though midſt ſea lightning, and the ſmoke, he breaths;</l>
+               <l>Cauſe when it thunder'd he no <hi>laureal</hi> wore</l>
+               <l>Its but juſt to crown him with't on ſhore.</l>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:152769:8"/>
+               <head>Some Ships on Fire.</head>
+               <l>THeſe are home-dangers, when he looks a<g ref="char:EOLhyphen"/>broad.</l>
+               <l>He ſees more terrours in the <hi>watry Road,</hi>
+               </l>
+               <l>There fire and water in confuſion,</l>
+               <l>The world did ſeem to end as it begun,</l>
+               <l>Forth' Elements contending on the main,</l>
+               <l>Seem'd a new <hi>Chaos,</hi> and canfus'd again,</l>
+               <l>
+                  <hi>Sulphurous lightning</hi> all about he ſees,</l>
+               <l>Whoſe flaſhes threaten to lick up the Seas,</l>
+               <l>More dreadful 'twas than fire at <hi>Phaeton</hi>'s fall</l>
+               <l>That frighted Earth, but this do's Sea and all</l>
+               <l>Its powerful Gods, ſuch flames do fly about,</l>
+               <l>Which <hi>Neptune</hi> in's <hi>full ſea</hi> cannot put out</l>
+               <l>Nothing but flames, which way ſo e're he turn</l>
+               <l>The <hi>grapling Keels</hi> like <hi>funeral Pils</hi> do burn,</l>
+               <l>Which <hi>boards</hi> ſome Ships, and none its rage can ſtop,</l>
+               <l>Diſplaying its <hi>flameing Flag</hi> on the <hi>Main top,</hi>
+               </l>
+               <pb n="11" facs="tcp:152769:8"/>
+               <l>(That <hi>Lemnian Cripple</hi> propt with one ſound leg)</l>
+               <l>With greatſt Monarchs will diſpute his <hi>Flag.</hi>
+               </l>
+               <l>No buckets then can ſerve, no <hi>Engine</hi> can</l>
+               <l>Quench ſuch wild fire though't ſquirt the Ocean</l>
+               <l>Seamen like ſpiders up the Ropes do climb,</l>
+               <l>And there they hang long as their weary'd limb</l>
+               <l>Can hold, but, when the rageing fire doth play,</l>
+               <l>To quench themſelves fall down into the Sea.</l>
+               <l>Wild beaſts at ſight of fire do ſtart, and fly,</l>
+               <l>And ſome with noiſe of Guns, not ſhot, do die,</l>
+               <l>But the brave Spirits dare themſelves involve</l>
+               <l>In fire which can't deſtroy, though't can diſſolve,</l>
+               <l>They are <hi>firſt principles,</hi> who fear no flame,</l>
+               <l>Which may ſcortch bodies, but calcines their name.</l>
+            </div>
+            <div type="part">
+               <head>More danger in a Sea-Fight, than in a Land-Battle.</head>
+               <l>
+                  <hi>FOrtune</hi> diſown's the name of <hi>Wheel,</hi> for ſhe</l>
+               <l>Makes ſeas the Emblem of unconſtancy;</l>
+               <pb n="12" facs="tcp:152769:9"/>
+               <l>She on a <hi>watry globe</hi> impowr'd to drown</l>
+               <l>More raſh then <hi>ſpokes</hi> do's turn waves up and down:</l>
+               <l>The hardned Seamen who their days have ſpent;</l>
+               <l>With patience, on th'unconſtant Element</l>
+               <l>Say that their lives ſtill border on deſpair</l>
+               <l>Their <hi>flying Fiſh</hi> ſcarce live 'twixt flouds and air,</l>
+               <l>Who can proynoſticate where winds will blow</l>
+               <l>Or calculate how high the ſeas will flow,</l>
+               <l>By <hi>lunar</hi> aſpects, when art that hath done</l>
+               <l>'Tis like a picture of a <hi>changing moon</hi>
+               </l>
+               <l>A <hi>Protea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> face who ever could pourtrey</l>
+               <l>Or gogling eye which never looks, one way</l>
+               <l>Sea fights not rul'd by <hi>ſcience,</hi> no ſure skill</l>
+               <l>To protect lives, or certaine rule to kill</l>
+               <l>Who incamp's ſecure within his <hi>line,</hi>
+               </l>
+               <l>And nought do's fear but earth quakes or a <hi>mine</hi>
+               </l>
+               <l>Which may be ſprung, from which point winds do <hi>blow;</hi>
+               </l>
+               <l>He cares not ſeeing his footing's ſure below;</l>
+               <l>But who on ſeas doth 'venture out to war</l>
+               <l>Muſt wait the leiſure of ſome ſlow-pac't ſtar</l>
+               <l>And fickle winds? The Roman with his ſpade</l>
+               <l>Hath level'd hills, and wayes through moun<g ref="char:EOLhyphen"/>taines made</l>
+               <pb n="13" facs="tcp:152769:9"/>
+               <l>But <hi>watry mounts</hi> not ſtrength or art makes plain</l>
+               <l>A <hi>planet queen</hi> in rambling ſeas doth reign;</l>
+               <l>Only the moon can make ſeas riſe or fall,</l>
+               <l>And as ſhe runs her courſe obeys her call.</l>
+            </div>
+            <div type="part">
+               <head>Some excuſe cowardize with Pretence that no Valour can be ſhewed at Sea.</head>
+               <l>TO ſtay on ſhore Cowards more pleas will feign</l>
+               <l>And cry down all the actions on the main,</l>
+               <l>They curſe the gods and do blind Fortune blame</l>
+               <l>And her <hi>fit Engines,</hi> guns which have no aime;</l>
+               <l>The ſhip doth ſtagger, and the moving gun</l>
+               <l>Unconſtant as the <hi>wheel</hi> it runs upon:</l>
+               <l>Canons ſurprize and do in ambuſh lay,</l>
+               <l>Peepe out of wood, and unexpected ſlay,</l>
+               <l>And as a Lyon Seiz'd of's prey doth roar</l>
+               <l>Come out of thickets not perceiv'd before;</l>
+               <l>Wh'in duels falls, or the ſwords victim lyes,</l>
+               <l>He ſees the <hi>point</hi> which threatens 'fore he dyes</l>
+               <pb n="14" facs="tcp:152769:10"/>
+               <l>But Bullets are not ſeen whilſt they do fly,</l>
+               <l>Clandeſtine murther gives them Victory,</l>
+               <l>And when that is obtain'd, the treach'rous Gun</l>
+               <l>Makes <hi>Proclamation</hi> of what ſhot hath done,</l>
+               <l>Who on the land with <hi>ſteel</hi> do miſs their <hi>paſs</hi>
+               </l>
+               <l>Retract and ſtand on the ſame gorund and place,</l>
+               <l>And ſome land ſouldiers ſave themſelves by flight,</l>
+               <l>With as much honour as they could by fight,</l>
+               <l>But ſhips are priſons, and <hi>the Naval Wall,</hi>
+               </l>
+               <l>Do's ſhut men up, till Fate ſayes who ſhall fall,</l>
+               <l>Theſe thoughts keeps ſome at home, who ne'r in<g ref="char:EOLhyphen"/>tend</l>
+               <l>To go beyond their <hi>Thule,</hi> the <hi>Lands end,</hi>
+               </l>
+               <l>For fear the briny flouds their feet ſhould wet,</l>
+               <l>Their door poſts are <hi>Herculean Pillars</hi> ſet,</l>
+               <l>Theſe are like trees which on the Earth do ſtand</l>
+               <l>Ty'd faſt by roots and nouriſh't by the Land,</l>
+               <l>They are like ſhell fiſh, and their ſouls nome bred.</l>
+               <l>Who ſtarve without a houſe ſpread o're their head;</l>
+               <l>This <hi>Crab-fiſh Crew,</hi> when they are fore't to ſea,</l>
+               <l>Though ſeeming <hi>forward,</hi> backward creep away,</l>
+               <l>They when the Fleets are ſmartly joyn'd i fight</l>
+               <l>Like <hi>Iſles inchanted</hi> vaniſh out of ſight,</l>
+               <l>And when there's thunder for their ears too loud,</l>
+               <pb n="15" facs="tcp:152769:10"/>
+               <l>
+                  <hi>Aeneas</hi> like, paſs off in ſmoke and clouds,</l>
+               <l>But <hi>Maidſtone</hi> ſought aloſt in ſight of all,</l>
+               <l>And made the World Spectators of his fall.</l>
+               <l>Some with theſe dangers terrified did weep,</l>
+               <l>Cowards like Reptiles in the Ark did did creep</l>
+               <l>Into the hole as Snakes with out warm blood,</l>
+               <l>Or treacherous Greeks ſhut in a <hi>Horſe Wood.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>Loſs of Men in the Ships</head>
+               <l>TO ſee the number of the men there ſlain</l>
+               <l>Would make ſome blood congeal'd in every vein,</l>
+               <l>To ſee an arm broke here, and there a thigh</l>
+               <l>And legs deſign'd to walk, in th'air to fly,</l>
+               <l>Some would expire by kind ſympathy</l>
+               <l>There are diſſections where the ſmall ſhot flie,</l>
+               <l>That fleas the man, and ſhews his Arteries,</l>
+               <l>And veins and ſinews with the naked bone,</l>
+               <l>Without a help of a Chyrurgion,</l>
+               <pb n="16" facs="tcp:152769:11"/>
+               <l>But th'<hi>great Shot</hi> as terrible as great</l>
+               <l>Opens the breaſt and ſhews how the heart does beat,</l>
+               <l>With ruins compaſs'd he undaunted ſtood,</l>
+               <l>Aloft 'mongſt <hi>ſplinters</hi> of the bones and <hi>Wood,</hi>
+               </l>
+               <l>How many Cowards in a fearful fit,</l>
+               <l>Fancied themſelves next <hi>blot</hi> that ſhould be hit:</l>
+               <l>How many victims ſlain fell by his ſide,</l>
+               <l>How many deaths ſaw he before he dy'd,</l>
+               <l>The numerous Corps hurl'd over board that day,</l>
+               <l>Like men at <hi>Chesboard</hi> he ſaw <hi>born away,</hi>
+               </l>
+               <l>True courage faints not though <hi>bare bones</hi> it ſee,</l>
+               <l>Neither doth ſtart at Wars Anatomy.</l>
+               <l>Though thouſands bleed on decks, and thouſands ſlain</l>
+               <l>Like Monſters floating on the bloody <hi>Main</hi>
+               </l>
+               <l>Reliques of carcaſſes boy'd by the flood,</l>
+               <l>Like <hi>Niles Productions</hi> out of its <hi>warm Mud,</hi>
+               </l>
+               <l>Yet all theſe ſights his valour could not check,</l>
+               <l>Which Scorns all ſtorms He's like a Maſt on Deck</l>
+               <l>If all were ſlain He'd call the ſhip his own,</l>
+               <l>Nought can diſturb brave ſouls poſſeſſion.</l>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:152769:11"/>
+               <head>The Fleet Be calm'd.</head>
+               <l>The Sullen Calm &amp; the more thwarting tyde</l>
+               <l>Stood in the way when victory ſhould ride,</l>
+               <l>Yet the ſtout Engliſh valour wont obey</l>
+               <l>Commands of <hi>fickle air</hi> or flowing ſea,</l>
+               <l>If <hi>Aeolus</hi> hold his, they'l breath a wind</l>
+               <l>Into their ſailes, rather than lurck behind;</l>
+               <l>
+                  <hi>Sandwich</hi> and <hi>Harman</hi> both will croſs the ſea</l>
+               <l>If <hi>Neptune</hi> frown they'l frown as much as he</l>
+               <l>If he do ſide with the Dutch enemy</l>
+               <l>If <hi>Aeolus</hi> be ſullen, and the waves</l>
+               <l>Like a <hi>dead Jea,</hi> they'l row like galley Slaves</l>
+               <l>With Canonns <hi>iron oares,</hi> for every gun</l>
+               <l>When 'twas diſcharg'd did ſerve to tug them on</l>
+               <l>The winds were like the cautious Swede and Dane</l>
+               <l>Who interpoſed in actions on the <hi>Main</hi>
+               </l>
+               <l>And ſeemed like friends but merely out of ſpite</l>
+               <l>They ſtopt their breath for to prevent the fight</l>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:152769:12"/>
+               <head>Only part of the Fleet engaged.</head>
+               <l>HAve you not ſeen the Snake that dunghil<g ref="char:EOLhyphen"/>wonder,</l>
+               <l>When ſome ſtout arm cuts its ſleek back in ſunder,</l>
+               <l>Though't ſo diſabled that it cannot fight,</l>
+               <l>With <hi>ſpiral</hi> turnings would its part unite,</l>
+               <l>So the far ſever'd ſhips, and disjoyn'd Fleet</l>
+               <l>Did make <hi>Meanders</hi> on the Waves to meet;</l>
+               <l>Yet 'twas in vain, for Seamen with their skill</l>
+               <l>Tacking about, their ſayles could never fill.</l>
+               <l>Have you not ſeen a Champion, when he's held</l>
+               <l>By others ſtrength from ruſhing in the feild,</l>
+               <l>Doubles his rage, as <hi>Sampſon</hi> when he's bound</l>
+               <l>Did ſnap his cords, and all about him wound,</l>
+               <l>Such was the Engliſh valour, they on board</l>
+               <l>Did <hi>Burst</hi> a cable as he ſnapt a <hi>cord</hi>
+               </l>
+               <l>For though the Calm oppoſing ſhips dotye</l>
+               <l>Like ankors to their <hi>bay</hi> the bullets fly</l>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:152769:12"/>
+               <head>Nobility doth not degrade it ſelf by encount<g ref="char:EOLhyphen"/>ers with the moſt beſt vaſſals.</head>
+               <l>THe want of courage ſome would thus excuſe,</l>
+               <l>With a loud oath they ſwear they do not uſe</l>
+               <l>To fight gainſt galley ſlaves, and when they dy'd</l>
+               <l>Would for their lives <hi>as Peers by Peers,</hi> be try'd</l>
+               <l>Such weak pretences this brave <hi>Hero</hi> ſcorn'd,</l>
+               <l>By the baſe foe the conqueſt is dorn'd</l>
+               <l>Champions deſign'd the greateſt acts to do,</l>
+               <l>Fought not with ſtarrs but baſer things below.</l>
+               <l>Gyants were fools, who did the heavens aſſault</l>
+               <l>Tis more true valour t' enter in a vault</l>
+               <l>Where Snakes or Dragones are, ſuch foes as theſe</l>
+               <l>Become St. <hi>George,</hi> or the great <hi>Hercules,</hi>
+               </l>
+               <l>Who ugly <hi>Polyphemus</hi> hills in's den</l>
+               <l>Doth more than if he ſlew ten thouſand men,</l>
+               <l>He who reſolv'd to get the <hi>name</hi> of <hi>man</hi>
+               </l>
+               <l>Fights not th'Athenians, But the Affrican,</l>
+               <pb n="20" facs="tcp:152769:13"/>
+               <l>Some Hero's travel'd to the banks of <hi>Nile</hi>
+               </l>
+               <l>Cauſe famous for its monſtrous Crocodile</l>
+               <l>The Champions ſo renown'd for Courage, when</l>
+               <l>They went to fight ſought not for gentlemen,</l>
+               <l>Great <hi>Theſeus duel'd</hi> Robbers and did ſlay</l>
+               <l>The plundring crew, which on the road did prey</l>
+               <l>One Hero'o virtue by a <hi>dung hil</hi> tryed,</l>
+               <l>By which the <hi>Augean groom</hi> was deifted.</l>
+               <l>Who wanting foes above to try his might</l>
+               <l>Did open earth, and went to Hell to fight,</l>
+            </div>
+            <div type="part">
+               <head>My Lord kill'd by a ſhot, when the Dutch Fleet was at a great diſtance from the Engliſh, about ſix a clock in the Evening.</head>
+               <l>ALL miſchief ſeems far off when it is near,</l>
+               <l>It ceaſes to be ſuch caus't doth appear;</l>
+               <l>It is Fates method to conceal decrees,</l>
+               <l>What's moſt pernicious that man ſeldom ſees,</l>
+               <l>When Nature fights, and doth reſolve to kill,</l>
+               <l>She fools Phyſitians with pretended skill,</l>
+               <pb n="21" facs="tcp:152769:13"/>
+               <l>By what man falls theſe men of Art ſcarce know:</l>
+               <l>'Till death ſtrips man, and ſhews the mortal blow.</l>
+               <l>
+                  <hi>Dark Deſtinies</hi> with him did ſeem to play,</l>
+               <l>But a ſad Veſper clos'd an auſpicious day,</l>
+               <l>They ſeem'd unwilling, yet reſolv'd his fall,</l>
+               <l>And then like <hi>Jugglers</hi> play'd a <hi>Fatal Ball.</hi>
+               </l>
+               <l>When ſtarrs fight againſt men, and Heavens wage War,</l>
+               <l>
+                  <hi>Saturn</hi> hurts moſt, though the moſt diſtant ſtar,</l>
+               <l>As a land Captain he to death did yield,</l>
+               <l>The <hi>firſt</hi> who <hi>enters,</hi> but laſt leaves the field,</l>
+               <l>He fell, and as he fell, the Seamen cry,</l>
+               <l>Here is true <hi>valour,</hi> true <hi>Nobility,</hi>
+               </l>
+               <l>They look't on him, and the <hi>declining Sun,</hi>
+               </l>
+               <l>And when <hi>both ſate,</hi> 'twas time the fight was done.</l>
+            </div>
+         </div>
+         <div type="poem">
+            <pb n="22" facs="tcp:152769:14"/>
+            <head>An Irenicum or Reflections on the Conditions of Peace by the Trumpeter.</head>
+            <l>Come <hi>Triton</hi> with thy Trumpet calm the Seas,</l>
+            <l>Proclaim no Triumph, only ſound like peace,</l>
+            <l>Away my Martial numbers it is meet,</l>
+            <l>You are laid by like a neglected Fleet,</l>
+            <l>My comick Muſe <hi>Halcyon</hi> like will reſt,</l>
+            <l>On the ſhore ſide, no Seas will wrack her neſt,</l>
+            <l>Now Guns are gagged, and ſpeak not as in War,</l>
+            <l>There is no ſound but of the Trumpeter:</l>
+            <l>Who on the Engliſh ſhores, in's braſs did blow</l>
+            <l>With ſuch ſucceſs as once 'gainſt <hi>Jericho,</hi>
+            </l>
+            <l>For by's breath the Ships our wooden Wall</l>
+            <l>Gave way, though force could never make them fall,</l>
+            <l>Dutch bottoms like the Trojan bulky Horſe,</l>
+            <l>Which ne're could find away by Arms or force,</l>
+            <l>But when a treaſure in their <hi>keeles</hi> do bring,</l>
+            <l>The Fleet makes way as Convoy to a King.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152769:14"/>
+            <pb facs="tcp:152769:15" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
